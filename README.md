@@ -1,4 +1,7 @@
-# jianmiao_app
+# jianmiao_app 
+
+一成都网吧上网的APP
+
 简喵APP API 参数解密
 
 版本:5.22.1
