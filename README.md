@@ -1,6 +1,8 @@
 # jianmiao_app
 简喵APP API 参数解密
 
+版本:5.22.1
+
 整个app逻辑代码都在native层，有xposed检测，检测到有任何开启的xp模块就立马闪退
 
 请求参数有token校验，请求体和返回包使用AES加密，网络请求使用ssl pinning防抓包
